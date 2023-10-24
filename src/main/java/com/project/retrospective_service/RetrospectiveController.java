@@ -123,7 +123,7 @@ public class RetrospectiveController {
 
         return getListResponseEntity(page, pageSize, foundRetrospectives);
     }
-    
+
     @ExceptionHandler(MethodArgumentNotValidException.class)
     @ResponseStatus(HttpStatus.BAD_REQUEST)
     public ResponseEntity<String> handleValidationExceptions(MethodArgumentNotValidException ex) {
