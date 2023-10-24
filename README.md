@@ -23,4 +23,4 @@ The JAR file generated in the target folder can be deployed to test the applicat
 
 ## A postman file is shared with this application to test the Application
 
-[PostMan File] (https://github.com/priyanka-mr/retrospective_service/blob/main/retrospective_service.postman_collection.json)
+[PostMan File](https://github.com/priyanka-mr/retrospective_service/blob/main/retrospective_service.postman_collection.json)
